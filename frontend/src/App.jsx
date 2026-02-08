@@ -4,11 +4,11 @@ import { FaUserCircle } from "react-icons/fa";
 import ScrollFadeDiv from "./Components/ScrollFadeDiv";
 import HeroSection from "./Components/Herosection";
 
-import Cars from "./pages/Cars";
-import About from "./pages/About";
-import Services from "./pages/Services";
-import Contact from "./pages/Contact";
-import Explore from "./pages/Explore";
+import Cars from "./Pages/Cars";
+import About from "./Pages/About";
+import Services from "./Pages/Services";
+import Contact from "./Pages/Contact";
+import Explore from "./Pages/Explore";
 
 function App() {
   return (
