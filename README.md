@@ -36,4 +36,4 @@ This expert system provides a simple and efficient approach to diagnosing common
 
 ## 6.Deployment
 
-This project is not deployed and runs locally for development and testing purposes only.
+Live Demo: https://car-expert-system-dhjh.vercel.app/
